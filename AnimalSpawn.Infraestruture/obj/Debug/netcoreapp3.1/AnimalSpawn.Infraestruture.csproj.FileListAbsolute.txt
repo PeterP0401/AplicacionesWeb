@@ -1,0 +1,15 @@
+C:\Users\pedro\Downloads\AWOS\AnimalSpawn\AnimalSpawn.Infraestruture\bin\Debug\netcoreapp3.1\AnimalSpawn.Infraestruture.deps.json
+C:\Users\pedro\Downloads\AWOS\AnimalSpawn\AnimalSpawn.Infraestruture\bin\Debug\netcoreapp3.1\AnimalSpawn.Infraestruture.dll
+C:\Users\pedro\Downloads\AWOS\AnimalSpawn\AnimalSpawn.Infraestruture\bin\Debug\netcoreapp3.1\AnimalSpawn.Infraestruture.pdb
+C:\Users\pedro\Downloads\AWOS\AnimalSpawn\AnimalSpawn.Infraestruture\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.dll
+C:\Users\pedro\Downloads\AWOS\AnimalSpawn\AnimalSpawn.Infraestruture\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.pdb
+C:\Users\pedro\Downloads\AWOS\AnimalSpawn\AnimalSpawn.Infraestruture\obj\Debug\netcoreapp3.1\AnimalSpawn.Infraestruture.csprojAssemblyReference.cache
+C:\Users\pedro\Downloads\AWOS\AnimalSpawn\AnimalSpawn.Infraestruture\obj\Debug\netcoreapp3.1\AnimalSpawn.Infraestruture.AssemblyInfoInputs.cache
+C:\Users\pedro\Downloads\AWOS\AnimalSpawn\AnimalSpawn.Infraestruture\obj\Debug\netcoreapp3.1\AnimalSpawn.Infraestruture.AssemblyInfo.cs
+C:\Users\pedro\Downloads\AWOS\AnimalSpawn\AnimalSpawn.Infraestruture\obj\Debug\netcoreapp3.1\AnimalSpawn.Infraestruture.csproj.CopyComplete
+C:\Users\pedro\Downloads\AWOS\AnimalSpawn\AnimalSpawn.Infraestruture\obj\Debug\netcoreapp3.1\AnimalSpawn.Infraestruture.dll
+C:\Users\pedro\Downloads\AWOS\AnimalSpawn\AnimalSpawn.Infraestruture\obj\Debug\netcoreapp3.1\AnimalSpawn.Infraestruture.pdb
+C:\Users\pedro\Downloads\AWOS\AnimalSpawn\AnimalSpawn.Infraestruture\bin\Debug\netcoreapp3.1\AnimalSpawn.Infraestruture.runtimeconfig.json
+C:\Users\pedro\Downloads\AWOS\AnimalSpawn\AnimalSpawn.Infraestruture\bin\Debug\netcoreapp3.1\AnimalSpawn.Infraestruture.runtimeconfig.dev.json
+C:\Users\pedro\Downloads\AWOS\AnimalSpawn\AnimalSpawn.Infraestruture\obj\Debug\netcoreapp3.1\AnimalSpawn.Infraestruture.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Downloads\AWOS\AnimalSpawn\AnimalSpawn.Infraestruture\obj\Debug\netcoreapp3.1\AnimalSpawn.Infraestruture.genruntimeconfig.cache
