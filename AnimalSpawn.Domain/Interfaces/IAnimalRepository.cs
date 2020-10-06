@@ -9,5 +9,6 @@ namespace AnimalSpawn.Domain.Interfaces
     public interface IAnimalRepository
     {
         public Task<IEnumerable<Animal>> GetAnimals();
+        public Task<Animal> GetAnimal(int id);
     }
 }

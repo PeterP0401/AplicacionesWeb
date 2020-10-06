@@ -22,5 +22,12 @@ namespace AnimalSpawn.Api.Controllers
             return Ok(animals);
         }
 
+        [HttpGet("{id:int}")]
+        public async Task<IActionResult> Get(int id)
+        {
+            var animal = await _repository.GetAnimal(id);
+            return Ok(animal);
+        }
+        ///Siguiente clase 25 de Septiembre
     }
 }
