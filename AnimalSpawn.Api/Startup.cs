@@ -14,6 +14,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using AnimalSpawn;
 
 namespace AnimalSpawn.Api
 {
@@ -32,9 +33,9 @@ namespace AnimalSpawn.Api
             services.AddControllers();
 
             services.AddDbContext<AnimalSpawnContext>(options =>
-             options.UseSqlServer(Configuration.GetConnectionString("AnimalSpawnEF")));
+             options.UseSqlServer(Configuration.GetConnectionString("AnimalSpawnConnection")));
 
-            services.AddTransient<IAnimalRepository, OtherDBRepository>();
+            services.AddTransient<IAnimalRepository, AnimalRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

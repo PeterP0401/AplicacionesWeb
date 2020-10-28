@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pedro\\Downloads\\AWOS\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj": {}
+    "C:\\Users\\ppech\\Downloads\\AWOS\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pedro\\Downloads\\AWOS\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj": {
+    "C:\\Users\\ppech\\Downloads\\AWOS\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pedro\\Downloads\\AWOS\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\ppech\\Downloads\\AWOS\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj",
         "projectName": "AnimalSpawn.Domain",
-        "projectPath": "C:\\Users\\pedro\\Downloads\\AWOS\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj",
-        "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pedro\\Downloads\\AWOS\\AnimalSpawn\\AnimalSpawn.Domain\\obj\\",
+        "projectPath": "C:\\Users\\ppech\\Downloads\\AWOS\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj",
+        "packagesPath": "C:\\Users\\ppech\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ppech\\Downloads\\AWOS\\AnimalSpawn\\AnimalSpawn.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\ppech\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -52,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
